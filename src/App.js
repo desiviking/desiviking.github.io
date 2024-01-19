@@ -13,11 +13,13 @@ import About from './routes/About';
 import Contact from './routes/Contact';
 import PrivacyPolicy from './routes/PrivacyPolicy';
 
+import Header from './components/Header';
 import Navbar from './components/Navbar';
 
 function App() {
   return (
     <>
+      <Header />
       <Navbar />
       <Routes>
         <Route path="/" element={<Home />} />
