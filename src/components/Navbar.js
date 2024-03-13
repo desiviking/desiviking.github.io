@@ -1,5 +1,6 @@
 import styled from 'styled-components'
 import { Link } from "react-router-dom";
+import { Container } from "../theme/globalStyles";
 
 const StyledLink = styled(Link)`
 color:black;
@@ -21,18 +22,11 @@ margin: 10px;
 
 const Navbar = () =>{
       return (
-            <div>
-                  <StyledLink to="/">Home</StyledLink>
+            <Container>
                   <StyledLink to="/blog">Blog</StyledLink>
-                  <StyledLink to="/settling-in">Settling In</StyledLink>
-                  <StyledLink to="/food-and-lifestyle">Food and Lifestyle</StyledLink>
-                  <StyledLink to="/legalities">Legalities</StyledLink>
-                  <StyledLink to="/community">Community</StyledLink>
-                  <StyledLink to="/resources">Resources</StyledLink>
                   <StyledLink to="/about">About</StyledLink>
-                  <StyledLink to="/contact">Contact</StyledLink>
                   <StyledLink to="/privacy-policy">Privacy Policy</StyledLink>
-            </div>
+            </Container>
       )
 }
 

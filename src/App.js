@@ -2,6 +2,8 @@ import './App.css';
 
 import { Routes, Route} from 'react-router-dom';
 
+import {GlobalStyle} from './theme/globalStyles';
+
 import Home from './routes/Home';
 import Blog from './routes/Blog';
 import SettlingIn from './routes/SettlingIn';
@@ -19,6 +21,7 @@ import Navbar from './components/Navbar';
 function App() {
   return (
     <>
+      <GlobalStyle />
       <Header />
       <Navbar />
       <Routes>
