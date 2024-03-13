@@ -4,7 +4,6 @@ import { Routes, Route} from 'react-router-dom';
 
 import {GlobalStyle} from './theme/globalStyles';
 
-import Home from './routes/Home';
 import Blog from './routes/Blog';
 import SettlingIn from './routes/SettlingIn';
 import FoodAndLifestyle from './routes/FoodAndLifestyle';
@@ -25,7 +24,7 @@ function App() {
       <Header />
       <Navbar />
       <Routes>
-        <Route path="/" element={<Home />} />
+        <Route path="/" element={<Blog />} />
         <Route path="/blog" element={<Blog />} />
         <Route path="/settling-in" element={<SettlingIn />} />
         <Route path="/food-and-lifestyle" element={<FoodAndLifestyle />} />
