@@ -23,7 +23,7 @@ margin: 10px;
 const Navbar = () =>{
       return (
             <Container>
-                  <StyledLink to="/blog">Blog</StyledLink>
+                  <StyledLink to="/">Home</StyledLink>
                   <StyledLink to="/about">About</StyledLink>
                   <StyledLink to="/privacy-policy">Privacy Policy</StyledLink>
             </Container>
