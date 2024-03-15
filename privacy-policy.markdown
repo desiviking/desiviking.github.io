@@ -8,4 +8,4 @@ This website uses cookies to analyze traffic and provide personalized content to
 
 We use advertisements on this site to generate revenue that allows us to continue providing free content for our users. We partner with several advertising networks such as Google AdSense to show relevant ads based on your interests and location. Our advertising partners may collect certain information about your browsing activity in order to provide you with targeted ads.
 
-If you have any questions or concerns regarding our privacy policy or the use of cookies, analytics, or advertisements on this site, please contact us at [effortlabs@gmail.com]
+If you have any questions or concerns regarding our privacy policy or the use of cookies, analytics, or advertisements on this site, please contact us at [global.desivikings@gmail.com]
