@@ -4,7 +4,10 @@ title:  "The Charms of Oslo: A City Where Nature Meets Urban Elegance."
 date:   2024-03-11 15:41:47 +0100
 categories: Blog
 ---
+
 Nestled between the Oslofjord's gleaming waters and the rolling greenery of its hills, Oslo, Norway, stands as a testament to the harmonious blend of urban sophistication and natural beauty. This city, with its vibrant streets, cutting-edge architecture, and lush landscapes, invites explorers to discover a world where history whispers through the walls and modernity showcases its brilliance.
+![Book logo](../../../../assets/images/oslo_ferry.jpeg)
+
 
 ## The Urban Canvas: Architectural Marvels and Cultural Gems
 Oslo's architectural landscape is a feast for the eyes, where historical buildings rub shoulders with contemporary marvels. The Oslo Opera House, with its white marble and glass facade, appears to rise from the fjord like an iceberg, inviting visitors to walk on its roof and soak in panoramic views. Meanwhile, the Astrup Fearnley Museum, a masterpiece of modern architecture designed by Renzo Piano, houses a collection of contemporary art that challenges and delights in equal measure.

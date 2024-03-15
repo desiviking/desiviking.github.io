@@ -4,6 +4,9 @@ title:  "Bergen: Where Mountains Meet the Sea in a Symphony of Beauty."
 date:   2024-03-09 15:41:47 +0100
 categories: Blog
 ---
+
+![Book logo](../../../../assets/images/bergen_norway.jpeg)
+
 In the heart of Norway, nestled between seven majestic mountains and the deep, blue waters of the North Sea, lies Bergen - a city that seems to have leaped straight out of a fairy tale. Known as the gateway to the fjords, Bergen's charm is undeniable, with its colorful wooden houses, historic harbor, and vibrant cultural scene. This city is not just a destination; it's an experience waiting to be discovered. Join me as we explore the enchanting city of Bergen, where every cobblestone tells a story, and the air is filled with the promise of adventure.
 
 ## A Journey Through Time: Bryggen's Hanseatic Wharf

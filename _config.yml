@@ -29,6 +29,8 @@ url: "https://desiviking.com" # the base hostname & protocol for your site, e.g.
 theme: minima
 plugins:
   - jekyll-feed
+show_excerpts: true
+excerpt_ separator: "\n\n"
 
 # Exclude from processing.
 # The following items will not be processed, by default.

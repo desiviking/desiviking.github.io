@@ -5,6 +5,8 @@ date:   2024-03-07 15:41:47 +0100
 categories: Blog
 ---
 
+![Book logo](../../../../assets/images/stockholm-sweden.jpeg)
+
 Stockholm, the capital of Sweden, is a city that captivates the heart of every traveler with its unique blend of scenic beauty, historic charm, and modern sophistication. Known as the "Venice of the North," Stockholm is a vibrant tapestry woven with the waters of the Baltic Sea, the tranquility of its green spaces, and the pulse of its urban life. Let's embark on a whimsical journey through Stockholm, where history meets hip, and nature greets every street corner.
 
 ## A City on Water: The Enchanting Archipelago
