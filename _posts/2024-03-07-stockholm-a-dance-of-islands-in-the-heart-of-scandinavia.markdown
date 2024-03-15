@@ -4,10 +4,8 @@ title:  "Stockholm: A Dance of Islands in the Heart of Scandinavia."
 date:   2024-03-07 15:41:47 +0100
 categories: Blog
 ---
-
-![Book logo](../../../../assets/images/stockholm-sweden.jpeg)
-
 Stockholm, the capital of Sweden, is a city that captivates the heart of every traveler with its unique blend of scenic beauty, historic charm, and modern sophistication. Known as the "Venice of the North," Stockholm is a vibrant tapestry woven with the waters of the Baltic Sea, the tranquility of its green spaces, and the pulse of its urban life. Let's embark on a whimsical journey through Stockholm, where history meets hip, and nature greets every street corner.
+![Book logo](../../../../assets/images/stockholm-sweden.jpeg)
 
 ## A City on Water: The Enchanting Archipelago
 Stockholm's essence is its waterways, gracefully dividing the city into 14 interconnected islands, each with its own distinctive character. The city's heart beats strongest in Gamla Stan, the Old Town, with its cobblestone streets, mustard-colored buildings, and the majestic Royal Palace standing sentinel over the city's rich past. As you wander through its labyrinthine alleyways, you're transported to a bygone era, with each corner offering a new surprise, be it a hidden courtyard, a quaint café, or a boutique filled with Swedish design wonders.
