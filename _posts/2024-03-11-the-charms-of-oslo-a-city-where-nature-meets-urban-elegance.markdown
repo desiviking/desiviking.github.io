@@ -6,7 +6,7 @@ categories: Blog
 ---
 
 Nestled between the Oslofjord's gleaming waters and the rolling greenery of its hills, Oslo, Norway, stands as a testament to the harmonious blend of urban sophistication and natural beauty. This city, with its vibrant streets, cutting-edge architecture, and lush landscapes, invites explorers to discover a world where history whispers through the walls and modernity showcases its brilliance.
-![Book logo](../../../../assets/images/oslo_ferry.jpeg)
+![Oslo image](../../../../assets/images/oslo_ferry.jpeg)
 
 
 ## The Urban Canvas: Architectural Marvels and Cultural Gems

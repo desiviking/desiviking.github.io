@@ -5,7 +5,7 @@ date:   2024-03-09 15:41:47 +0100
 categories: Blog
 ---
 In the heart of Norway, nestled between seven majestic mountains and the deep, blue waters of the North Sea, lies Bergen - a city that seems to have leaped straight out of a fairy tale. Known as the gateway to the fjords, Bergen's charm is undeniable, with its colorful wooden houses, historic harbor, and vibrant cultural scene. This city is not just a destination; it's an experience waiting to be discovered. Join me as we explore the enchanting city of Bergen, where every cobblestone tells a story, and the air is filled with the promise of adventure.
-![Book logo](../../../../assets/images/bergen_norway.jpeg)
+![Bergen image](../../../../assets/images/bergen_norway.jpeg)
 
 ## A Journey Through Time: Bryggen's Hanseatic Wharf
 Our first stop is Bryggen, the historic harbor district and a UNESCO World Heritage site that has become synonymous with Bergen. With its row of colorful, leaning wooden buildings, Bryggen looks like it's been plucked from the pages of a medieval storybook. These buildings, once the offices and warehouses of Hanseatic merchants, are now bustling with shops, studios, and cozy cafés, each with its own unique charm. Walking through the narrow alleyways of Bryggen is like traveling back in time, with every turn revealing a piece of Bergen's rich maritime history.

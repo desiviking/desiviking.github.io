@@ -5,7 +5,7 @@ date:   2024-03-05 15:41:47 +0100
 categories: Blog
 ---
 Welcome to Copenhagen, Denmark's capital, where the enchanting whispers of fairy tales meet the forward march of a sustainable future. This city, a canvas painted with the strokes of history, innovation, and a deep love for the environment, invites travelers into its embrace with a promise of unforgettable moments. Let's dive into the heart of Copenhagen, a city that bikes its way into your heart while charming you with tales as old as time.
-![Book logo](../../../../assets/images/copenhagen-denmark.jpeg)
+![Copenhagen image](../../../../assets/images/copenhagen-denmark.jpeg)
 
 ## The Heartbeat of Hygge: Embracing Coziness
 In Copenhagen, 'hygge' is more than just a word; it's a lifestyle. This untranslatable term, embodying coziness, warmth, and togetherness, permeates every corner of the city—from the flickering candles in the windows of its cafes to the warm smiles of its inhabitants. Imagine sipping a hot cup of coffee in a snug café, surrounded by the soft glow of lights and the murmurs of contentment. That's hygge, and that's Copenhagen for you.
